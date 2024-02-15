@@ -6,4 +6,5 @@ This simple project demonstrates the usage of navigation in Jetpack Compose with
 Language: Kotlin<br><br>
 Dependencies: Jetpack Compose, Jetpack Compose Navigation<br><br>
 It's a single activity with multi compoable components.<br><br>
-Explore and enjoy navigating with ease! 🚀<br>
+It contains way to clear backstack and send args between composables using NavArgs.<br><br>
+Explore and enjoy navigating with ease! 🚀<br><br>
